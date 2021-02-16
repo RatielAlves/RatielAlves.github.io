@@ -596,9 +596,8 @@ a:hover {
   opacity: 0.9;
 }
 .logo{
-  width: 20vh;
-  height: auto;
-  position: relative;
+  width: auto;
+  height: 10vh;
 }
 /*======================================
 //--//-->   INTRO
