@@ -595,6 +595,10 @@ a:hover {
   transform: rotate(-135deg);
   opacity: 0.9;
 }
+.logo {
+  width: 20vh;
+  height: auto;
+}
 
 /*======================================
 //--//-->   INTRO
